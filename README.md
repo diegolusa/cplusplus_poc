@@ -1,2 +1,3 @@
-# cplusplus_poc
-Exemplos em código da aplicação de recursos básicos e avançados em C++. Notas de aula.
+# Exemplos de código escritos na linguagem C++
+
+Neste repositório estão disponíveis exemplos de códigos escritos com a finalidade de demonstrar recursos, técnicas e fundamentos de programação na linguagem C++.
